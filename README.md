@@ -14,6 +14,8 @@ The goal of this project is to build visual representations of occupations - in 
 © Mohamed Mesto
 License under the [MIT License] (LICENSE).
 
-![](ReportImage_VisualizationInDigitalOccupation.jpg)
 ![](Video_of_daily_life_of_IT_Admin/CoverImage_of_daily_life_of_IT_Admin.png))
+
+![](ReportImage_VisualizationInDigitalOccupation.jpg)
+
 
