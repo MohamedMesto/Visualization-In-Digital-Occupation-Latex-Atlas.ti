@@ -16,6 +16,6 @@ License under the [MIT License] (LICENSE).
 
 ![](Video_of_daily_life_of_IT_Admin/CoverImage_of_daily_life_of_IT_Admin.png)
 
-![](ReportImage_VisualizationInDigitalOccupation.jpg)
+![](images/ReportImage_VisualizationInDigitalOccupation.jpg)
 
 
