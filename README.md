@@ -20,7 +20,8 @@ Quality and Usability Lab</a></h5> </td>
     <td> </td>
 </tr>
   <tr>
-    <td> </td>  <td align="center"><a href="https://www.dfki.de/web">Supervisor Dr. Tim Polzehl
+    <td> </td>  <td align="center"><a href="https://www.tu.berlin/index.php?id=29521">Supervisor PhD. research assistant Vera Schmitt
+
     </a></td>
     <td> </td>
 </tr>
