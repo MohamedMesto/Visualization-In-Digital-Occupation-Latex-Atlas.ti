@@ -1,11 +1,10 @@
 <table border=0>
 <tr border=0>
 <td> <img align="left"  alt="Mohamed Mesto" width="100px" height='60px' src="https://www.ods.tu-berlin.de/fileadmin/Aperto_design/img/logo_01.gif"/> </td>
-  <td align="center"> <h5><a href="Images/QULAB.png">
+  <td align="center"> <h5><a href="https://www.qu.tu-berlin.de/menue/qu/">
 Institut für Softwaretechnik und Theoretische Informatik
-
-</a><br>Quality and Usability Lab<br><a href="https://www.qu.tu-berlin.de/menue/qu/">Institut für Softwaretechnik und Theoretische Informatik<br>
-Quality and Usability Lab</a></h5> </td>
+</a><br>Quality and Usability Lab<br> <br>
+ </h5> </td>
   <td>  <img align="right"  alt="Mohamed Mesto" width="160px" height='60px' src="Images/QULAB.png"/></td>
 </tr>
 <tr border=0>
@@ -20,10 +19,7 @@ Quality and Usability Lab</a></h5> </td>
     <td> </td>
 </tr>
   <tr>
-    <td> </td>  <td align="center"><a href="https://www.tu.berlin/index.php?id=29521">Supervisor PhD. research assistant Vera Schmitt
-
-    </a></td>
-    <td> </td>
+    <td> </td>  <td align="center"><a href="https://www.linkedin.com/in/vera-schmitt/">Supervisor PhD. research assistant Vera Schmitt</a></td>
 </tr>
 </table>
 
