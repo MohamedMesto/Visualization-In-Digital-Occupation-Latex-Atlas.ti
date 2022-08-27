@@ -5,7 +5,7 @@
 Institut für Softwaretechnik und Theoretische Informatik
 </a><br>Quality and Usability Lab<br> <br>
  </h5> </td>
-  <td>  <img align="right"  alt="Mohamed Mesto" width="160px" height='60px' src="Images/QULAB.png"/></td>
+  <td>  <img align="right"  alt="Mohamed Mesto" width="160px" height='100px' src="Images/QULAB.png"/></td>
 </tr>
 <tr border=0>
 <td> </td><td  align="center"><h5> Project Topic </h5> </td><td> </td>
