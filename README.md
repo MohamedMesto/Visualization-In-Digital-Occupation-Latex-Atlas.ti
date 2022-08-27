@@ -10,6 +10,9 @@ The goal of this project is to build visual representations of occupations - in 
 - Amiruddin, Azmi  azmi.amiruddin@campus.tu-berlin.de , Azmi.my@gmail.com
 - Nguyen, Eva e.nguyen@campus.tu-berlin.de
 
+# Evaluation Grade from Quality and Usability Lab
+1.0
+
 ## License & copyright
 © Mohamed Mesto
 License under the [MIT License] (LICENSE).
