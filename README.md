@@ -1,6 +1,6 @@
 <table border=0>
 <tr border=0>
-<td> <img align="left"  alt="Mohamed Mesto" width="100px" height='100px' src="https://www.ods.tu-berlin.de/fileadmin/Aperto_design/img/logo_01.gif"/> </td>
+<td> <img align="left"  alt="Mohamed Mesto" width="140px" height='100px' src="https://www.ods.tu-berlin.de/fileadmin/Aperto_design/img/logo_01.gif"/> </td>
   <td align="center"> <h5><a href="https://www.qu.tu-berlin.de/menue/qu/">
 Institut für Softwaretechnik und Theoretische Informatik
 </a><br>Quality and Usability Lab<br> <br>
