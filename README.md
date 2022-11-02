@@ -39,6 +39,7 @@ The goal of this project is to build visual representations of occupations - in 
 
 ## Evaluation Grade from Quality and Usability Lab
 1.0
+![](Images/Visualization-In-Digital-Occupation-grade.png)
 
 ## License & copyright
 © Mohamed Mesto
