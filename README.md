@@ -19,7 +19,7 @@ Institut für Softwaretechnik und Theoretische Informatik
     <td> </td>
 </tr>
   <tr>
-    <td> </td>  <td align="center"><a href="https://www.linkedin.com/in/vera-schmitt/">Supervisor PhD. research assistant Vera Schmitt</a></td>
+    <td> </td>  <td align="center"><a href="https://www.tu.berlin/qu/ueber-uns/alumni/britta-hesse">Supervisor Dr. Britta Hesse</a> <a href=" https://www.researchgate.net/profile/Esther-Ruiz-Ben-2">Supervisor Dr. Esther Ruiz Ben</a></td>
 </tr>
 </table>
 
